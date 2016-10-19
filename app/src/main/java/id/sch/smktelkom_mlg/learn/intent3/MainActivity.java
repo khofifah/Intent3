@@ -34,6 +34,8 @@ public class MainActivity extends AppCompatActivity {
                 openWebPage("http://www.smktelkom-mlg.sch.id/");
             }
         });
+
+
     }
 
     private void openWebPage(String url) {
